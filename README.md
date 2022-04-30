@@ -8,11 +8,11 @@ Mēs labi saprotamies viens ar otru.
 Pēc Saldus pilsētas ģimnāzijas beigšanas, tālāk studēt devos uz Latvijas lauksaimniecības universitāti. Tur ieguvu gan bakalaura, gan maģistra grādu ekonomikā. Universitātē ieguvu labas zināšanas, lai uzāktu savu biznesu.
 
 ## Karjera
-Iegūstot bakalauru grādu, uzreiz pēc izlaiduma devos uz Grieķiju strādāt viesnīcā, lai iegūtu pieredzi apkalpošanas nozarē. Atgriežoties Latvijā sāku strādāt restorānā par vadītāju, un iestājos maģistros. Pēc gada nodibināju savu restorānu "Galerija Istaba", kuru veiksmīgi vadīju vairākus gadus. Tomēr pirms dažiem gadiem nolēmu visu savu laiku veltīt ģimenei un restorānu pārdevu. 
+Iegūstot bakalauru grādu, uzreiz pēc izlaiduma devos uz Grieķiju strādāt viesnīcā, lai iegūtu pieredzi apkalpošanas nozarē. Atgriežoties Latvijā sāku strādāt restorānā par vadītāju, un iestājos maģistros. Pēc gada nodibināju savu restorānu "[Galerija Istaba](https://www.facebook.com/galerijaISTABA)", kuru veiksmīgi vadīju vairākus gadus. Starp citu, kurš vēljoprojām darbojas. Tomēr pirms dažiem gadiem nolēmu visu savu laiku veltīt ģimenei un restorānu pārdevu. 
 
 ## Izglītība ||
 Bērni ir paaugušies, un gribās atkal sevi pilnveidot un attīstīt. Tā nu es nonācu līdz IT. Šobrīd macos Java un automatizēto testēšanu, ir ļoti interesanti, cerams arī šogad sākšu strādāt par testētāju.
 
 ## Hobiji
 Man patīk lasīt dažādas grāmatas, varu lasīt gan daiļliteratūru, gan vēsturiskas par karu, gan iedvesmojošas autobiogrāfijas. Tieši šobrīd esmu aizrāvusies ar Afganistānas vēsturi, un kā viņi ir nonākuši līdz talibiem un mūsdienām. 
-Vēl man patīk dažādi sporta veidi, sākot ar skriešanu, beidzot ar snovbordu. Ikdienā, lai uzturētu sevi formā dodos uz sporta zāli. Ļoti mīlu dzīvniekus, visus! Man pašai ir vecs, mīļš runcis no patversmes, un pirms gada mūsu ģimenei pievienojās amstaf kucēns, kuram ļoti patīk skriet un spēlēties. Bet vislielākā mīlestība man ir pret zirgiem, ar jāšanas sportu nodarbojos no bērnības, un nekad neesmu vēlējusies pārtraukt. Zirgs bērnam iemāca rūpes par otru un pacietību :))
+Vēl man patīk dažādi sporta veidi, sākot ar skriešanu, beidzot ar snovbordu. Ikdienā, lai uzturētu sevi formā dodos uz sporta zāli. Ļoti mīlu dzīvniekus, visus! Man pašai ir vecs, mīļš runcis no patversmes, un pirms gada mūsu ģimenei pievienojās amstaf kucēns, kuram ļoti patīk skriet un spēlēties. Bet vislielākā mīlestība man ir pret zirgiem, ar jāšanas sportu nodarbojos no bērnības, un nekad neesmu vēlējusies pārtraukt. Zirgs bērnam iemāca rūpes par otru un pacietību :))        
