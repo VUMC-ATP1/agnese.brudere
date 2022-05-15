@@ -1,0 +1,48 @@
+ * {
+     max-width: 95%;
+     margin: auto;
+ }
+ 
+ div {
+     border-radius: 5px;
+ }
+ 
+ .content {
+     display: inline-block;
+     margin-top: 10px;
+     margin-left: 60px;
+     width: 75%;
+     height: 1000px;
+ }
+ 
+ p,
+ li,
+ a {
+     font-family: 'Lato', sans-serif;
+ }
+ 
+ .paragraphStyle {
+     font-size: 25px;
+     font-weight: bold;
+ }
+ 
+ .paragraph {
+     text-align: justify;
+ }
+ 
+ .box {
+     width: 600px;
+     height: 200px;
+     background-color: rgb(70, 70, 161);
+ }
+ 
+ .title {
+     font-size: 30px;
+     color: yellow;
+     font-weight: bold;
+     text-align: center;
+ }
+ 
+ .img {
+     text-align: center;
+ }
